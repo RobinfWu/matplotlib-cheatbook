@@ -4,14 +4,13 @@ Matplotlib Cheatbook is ported from [matplotlib cheatsheets](https://github.com/
 
 ## Cheatsheets
 
-![](https://raw.githubusercontent.com/matplotlib/cheatsheets/master/cheatsheets-1.png)
-
-![](https://raw.githubusercontent.com/matplotlib/cheatsheets/master/cheatsheets-2.png)
+Cheatsheet [(download pdf)](https://matplotlib.org/cheatsheets/cheatsheets.pdf) | |
+:------------------------------------------------------------------------------:|:----------------------------------------------------------:
+![](https://matplotlib.org/cheatsheets/cheatsheets-1.png)                       | ![](https://matplotlib.org/cheatsheets/cheatsheets-2.png)
 
 ## Handouts
 
-![](https://raw.githubusercontent.com/matplotlib/cheatsheets/master/handout-beginner.png)
+Beginner handout [(download pdf)](https://matplotlib.org/cheatsheets/handout-beginner.pdf) | Intermediate handout [(download pdf)](https://matplotlib.org/cheatsheets/handout-intermediate.pdf) | Tips handout [(download pdf)](https://matplotlib.org/cheatsheets/handout-tips.pdf)
+:-----------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:
+![](https://matplotlib.org/cheatsheets/handout-beginner.png)                               | ![](https://matplotlib.org/cheatsheets/handout-intermediate.png)                                   | ![](https://matplotlib.org/cheatsheets/handout-tips.png)
 
-![](https://raw.githubusercontent.com/matplotlib/cheatsheets/master/handout-intermediate.png)
-
-![](https://raw.githubusercontent.com/matplotlib/cheatsheets/master/handout-tips.png)
